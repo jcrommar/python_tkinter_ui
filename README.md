@@ -1,4 +1,4 @@
-# Python Tkinter Log In & Registration UI
+# Python Tkinter Log In & Registration UI (Chicken 1.0)
 Python app with Tkinter Module
 Log In and Registration UI to Chicken 1.0
 
